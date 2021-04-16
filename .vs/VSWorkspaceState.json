@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\my-app",
-    "\\my-app\\public"
+    "\\my-app\\public",
+    "\\my-app\\src",
+    "\\my-app\\src\\Comp"
   ],
-  "SelectedNode": "\\my-app\\public\\index.html",
+  "SelectedNode": "\\my-app\\src\\Comp\\Header.jsx",
   "PreviewInSolutionExplorer": false
 }
