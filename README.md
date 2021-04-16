@@ -3,4 +3,4 @@
 3. enter the directory
 4. run "npm install"
 5. run "npm start"
-6. Enjoy the site!
+6. Enjoy the website!
